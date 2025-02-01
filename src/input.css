@@ -7,3 +7,9 @@
     --color-dawat-bg:rgb(17, 84, 20);
     --color-india-gate:rgb(16, 40, 97);
 }
+.dawat{
+    background-image: url('../c2-assets/dawat-mock-up.png');
+}
+.ind-gate{
+    background-image: url(../c2-assets/india-gate-mock-up.png);
+}
