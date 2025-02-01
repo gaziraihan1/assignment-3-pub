@@ -901,8 +901,17 @@
   .bg-\[url\(\'\.\.\/india-gate-mock-up\.png\'\)\] {
     background-image: url('../india-gate-mock-up.png');
   }
+  .bg-\[url\(\'\.\/c2-assedawat-mock-up\.png\'\)\] {
+    background-image: url('./c2-assedawat-mock-up.png');
+  }
   .bg-\[url\(\'\.\/c2-assets\/dawat-mock-up\.png\'\)\] {
     background-image: url('./c2-assets/dawat-mock-up.png');
+  }
+  .bg-\[url\(\'\.\/c2-assets\/india-gate-mock-up\.png\'\)\] {
+    background-image: url('./c2-assets/india-gate-mock-up.png');
+  }
+  .bg-\[url\(\'\.\/c3-assets\/india-gate-mock-up\.png\'\)\] {
+    background-image: url('./c3-assets/india-gate-mock-up.png');
   }
   .bg-\[url\(\'\.\/dawat-mock-up\.png\'\)\] {
     background-image: url('./dawat-mock-up.png');
